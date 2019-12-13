@@ -5,7 +5,6 @@ language:
 services:
 - docker
 
-
 jobs:
   include:
   - name: "checks"
